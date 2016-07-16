@@ -18,15 +18,18 @@
     <string name="btnCambioSigno">+/-</string>
     <string name="btnDecimal">.</string>
     <string name="btnIgual">=</string>
-    <string name="buttonClear">C</string>
-    <string name="buttonClearMemory">MC</string>
-    <string name="buttonAddToMemory">M+</string>
-    <string name="buttonSubtractFromMemory">M-</string>
-    <string name="buttonRecallMemory">MR</string>
-    <string name="buttonSquareRoot">√</string>
-    <string name="buttonSquared">x²</string>
-    <string name="buttonInvert">1/x</string>
-    <string name="buttonSine">sin</string>
-    <string name="buttonCosine">cos</string>
-    <string name="buttonTangent">tan</string>
+    <string name="btnClear">C</string>
+    <string name="btnClearMemoria">MC</string>
+    <string name="btnAMemoria">M+</string>
+    <string name="btnQuitDeMemoria">M-</string>
+    <string name="btnLlamarMemoria">MR</string>
+    <string name="btnRaiz">√</string>
+    <string name="btnElevar">x²</string>
+    <string name="btnInvertir">1/x</string>
+    <string name="btnSeno">sin</string>
+    <string name="btnCoseno">cos</string>
+    <string name="btnTangente">tan</string>
+    <string name="main.menu.action.about">Acerca del desarrollador</string>
+    <string name="main.menu.action.help">Ayuda</string>
+    <string name="main.menu.action.nightmode">Modo Nocturno</string>
 </resources>
