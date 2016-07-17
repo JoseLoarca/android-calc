@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Android Calc</string>
+    <string name="app_name">Calculadora para todos</string>
 
     <string name="btn0">0</string>
     <string name="btn1">1</string>
@@ -11,6 +11,7 @@
     <string name="btn7">7</string>
     <string name="btn8">8</string>
     <string name="btn9">9</string>
+
     <string name="btnSum">+</string>
     <string name="btnResta">-</string>
     <string name="btnMulti">*</string>
@@ -29,7 +30,21 @@
     <string name="btnSeno">sin</string>
     <string name="btnCoseno">cos</string>
     <string name="btnTangente">tan</string>
-    <string name="main.menu.action.about">Acerca del desarrollador</string>
+
     <string name="main.menu.action.help">Ayuda</string>
-    <string name="main.menu.action.nightmode">Modo Nocturno</string>
+
+    <string name="settings.nightmode">Modo Nocturno</string>
+    <string name="settings.daymode">Modo Diurno</string>
+    <string name="settings.about">Acerca del desarrollador</string>
+
+    <string name="settings.paragraph.help">
+       <![CDATA[
+       <p>
+       <b>Calculadora para todos</b> te ofrece un solución fácil de usar para realizar tus cálculos.
+       Para realizar operaciones simples puedes usar el dispositivo en orientación vertical, pero si
+       necesitas operaciones más complejas como <i>raíces cuadradas</i>, <i>elevar al cuadrado</i>,
+       etc. puedes cambiar a orientación horizontal para desbloquear estas operaciones.
+       </p>
+       ]]>
+    </string>
 </resources>
